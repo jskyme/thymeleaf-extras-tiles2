@@ -2,7 +2,7 @@
 
 <!-- ========================================================================= -->
 <!--                                                                           -->
-<!--   Copyright (c) 2011-2014, The THYMELEAF team (http://www.thymeleaf.org)  -->
+<!--   Copyright (c) 2011-2016, The THYMELEAF team (http://www.thymeleaf.org)  -->
 <!--                                                                           -->
 <!--   Licensed under the Apache License, Version 2.0 (the "License");         -->
 <!--   you may not use this file except in compliance with the License.        -->
@@ -28,7 +28,7 @@
   <name>thymeleaf-extras-tiles2-dist</name>
   <url>http://www.thymeleaf.org</url>
 
-  <description>XML/XHTML/HTML5 template engine for Java</description>
+  <description>Modern server-side Java template engine for both web and standalone environments</description>
 
   <licenses>
     <license>
